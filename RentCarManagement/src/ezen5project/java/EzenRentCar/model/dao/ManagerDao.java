@@ -34,7 +34,7 @@ public class ManagerDao extends Dao {
 		return managerDao;
 	}
 	private ManagerDao() {}
-	
+		
 	
 /*--------------------------------------------------------------------------*/
 	

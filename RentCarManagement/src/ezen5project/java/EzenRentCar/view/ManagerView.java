@@ -26,7 +26,7 @@ public class ManagerView {
 	private static ManagerView managerView = new ManagerView();
 	public static ManagerView getInstance() {
 		return managerView;
-	}
+	}	
 	private ManagerView() {}
 
 	private Scanner sc = new Scanner(System.in);
