@@ -38,7 +38,7 @@ public class ManagerDao extends Dao {
 	
 /*--------------------------------------------------------------------------*/
 	
-	// 1. 차량관리 - 환희
+	// 1. 차량관리
 	
 	// 1-1 DB carpoint 테이블 불러오기
 	public ArrayList<BranchDto> viewCarpoint(){
@@ -251,7 +251,7 @@ public class ManagerDao extends Dao {
 	
 	
 /*--------------------------------------------------------------------------*/
-	// 2. 쿠폰관리 - 민재	
+	// 2. 쿠폰관리	
 		
 	public ArrayList<CouponDto> couponAllview() {
 		
@@ -355,7 +355,7 @@ public class ManagerDao extends Dao {
 	}
 		
 /*--------------------------------------------------------------------------*/
-	// 3. 게시물관리 - 민재			
+	// 3. 게시물관리			
 		
 		
 	public ArrayList<ReviewBoardDto> reviewView( int pno ){
@@ -425,7 +425,7 @@ public class ManagerDao extends Dao {
 		
 
 /*--------------------------------------------------------------------------*/
-	// 4. 통계 - 의선	
+	// 4. 통계 	
 		
 	// 차량별 통계 Dao 함수
 	public ArrayList<CarSttDto> carStatistics(String stt) {

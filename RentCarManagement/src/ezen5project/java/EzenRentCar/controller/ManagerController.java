@@ -32,7 +32,7 @@ public class ManagerController {
 	
 	
 /*--------------------------------------------------------------------------*/
-	// 1. 차량관리 - 환희
+	// 1. 차량관리
 	
 	// 지점출력
 	public ArrayList<BranchDto> viewCarpoint(){
@@ -110,7 +110,7 @@ public class ManagerController {
 		
 		
 /*--------------------------------------------------------------------------*/
-	// 2. 쿠폰관리 - 민재	
+	// 2. 쿠폰관리 
 	//쿠폰출력함수
 	public ArrayList<CouponDto> couponAllview() {
 		
@@ -159,7 +159,7 @@ public class ManagerController {
 		
 		
 /*--------------------------------------------------------------------------*/
-	// 3. 게시물관리 - 민재			
+	// 3. 게시물관리 	
 	
 	public ArrayList<ReviewBoardDto> reviewView( int pno ) {
 		
@@ -176,7 +176,7 @@ public class ManagerController {
 		
 
 /*--------------------------------------------------------------------------*/
-	// 4. 통계 - 의선	
+	// 4. 통계 
 		
 	// 차량별 통계 컨트롤러 함수
 	public ArrayList<CarSttDto> carStatistics(String stt) {
