@@ -1,5 +1,6 @@
 # RentCarManagement
 # ezenRentCarProject
+/*
 렌트카 java console 프로젝트 입니다.
 <h1>1. 주제</h1></br>
 이젠 렌트카 차량대여 시스템</br>
@@ -19,3 +20,4 @@
 <img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/b9abc4cf-a829-48d6-808f-2921af440686" >
 <h1>6. EER 다이어그램</h1></br>
 <img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/6fe0f1ec-d338-4950-b7c5-1ca24f2bb10b">
+*/
